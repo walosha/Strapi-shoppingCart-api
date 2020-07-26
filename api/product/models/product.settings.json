@@ -20,6 +20,9 @@
     },
     "Price": {
       "type": "float"
+    },
+    "image": {
+      "type": "string"
     }
   }
 }

@@ -17,6 +17,7 @@ Icon
 
 *~
 
+package-lock.json
 
 ############################
 # Windows
@@ -94,6 +95,7 @@ logs
 results
 node_modules
 .node_history
+package-lock.json
 
 
 ############################
