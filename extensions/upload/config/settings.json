@@ -1,0 +1,11 @@
+{
+  "provider": "aws-s3",
+  "providerOptions": {
+    "accessKeyId": "AKIAX4OP6CEUW67DWVX5",
+    "secretAccessKey": "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",
+    "region": "us-west-1",
+    "params": {
+      "Bucket": "strapi-shoppingapi"
+    }
+  }
+}

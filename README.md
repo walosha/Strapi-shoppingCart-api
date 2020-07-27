@@ -1,3 +1,3 @@
-# Strapi application
+# Shopping Cart Backend application using Strapi
 
-A quick description of your strapi application
+Created an Restful API using Strapi (Opn Source) - Content Manager
